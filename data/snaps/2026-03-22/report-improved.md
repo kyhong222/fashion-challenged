@@ -25,7 +25,7 @@
 - **무신사**: <a href="https://www.musinsa.com/app/goods/5987732" target="_blank">링크</a>
 - **추천 이유**: 와이드 핏으로 허벅지 커버 + 면소재 편안함
 - **예상 가격**: 4-6만원대
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1484549751014515304" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1484549751014515304_0.jpg" target="_blank">스타일링 보기</a>
 
 #### 2️⃣ 베리베인 오버핏 맨투맨 ⭐⭐⭐⭐⭐
 - **상품번호**: 4959904
@@ -33,7 +33,7 @@
 - **무신사**: <a href="https://www.musinsa.com/app/goods/4959904" target="_blank">링크</a>
 - **추천 이유**: 릴랙스드 핏으로 체형 커버 + 레이어링 활용도 높음
 - **예상 가격**: 5-7만원대
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1483855198513927290" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1483855198513927290_0.jpg" target="_blank">스타일링 보기</a>
 
 #### 3️⃣ 베리베인 니트 가디건 ⭐⭐⭐⭐⭐
 - **상품번호**: 5533773  
@@ -41,7 +41,7 @@
 - **무신사**: <a href="https://www.musinsa.com/app/goods/5533773" target="_blank">링크</a>
 - **추천 이유**: 크롭 기장으로 허리라인 상승 + 셔츠 레이어링 완벽
 - **예상 가격**: 6-8만원대
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1483491366253860975" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1483491366253860975_0.jpg" target="_blank">스타일링 보기</a>
 
 ### 💫 무난픽 vs 독특픽 추천
 
@@ -63,7 +63,7 @@
 
 **1. <a href="https://www.musinsa.com/app/goods/6056116" target="_blank">올블랙 레더 세트</a>** (❤️ 621개)  
 - 레더재킷 + 와이드팬츠 조합으로 시크한 무드
-- **스냅 보기**: <a href="https://www.musinsa.com/app/snap/view/1483292763327006768" target="_blank">무신사 스냅</a>
+- **스냅 보기**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1483292763327006768_0.jpg" target="_blank">스타일링 보기</a>
 
 ### 💰 예산별 쇼핑 가이드
 
@@ -88,19 +88,19 @@
 - **대표 상품**: <a href="https://www.musinsa.com/app/goods/5969539" target="_blank">시그니처 아이템</a> (❤️ 3,268개)
 - **브랜드 특징**: 미니멀 스트릿 + 모던 캐주얼
 - **추천 이유**: 심플하면서도 독특한 디자인으로 MZ세대 핫픽
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1483470032194999831" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1483470032194999831_0.jpg" target="_blank">스타일링 보기</a>
 
 #### 2️⃣ 데시레드 (DESIRED)
 - **대표 상품**: <a href="https://www.musinsa.com/app/goods/5979237" target="_blank">아이템</a> (❤️ 180개)
 - **브랜드 특징**: 감각적인 컬러 + 세련된 핏
 - **추천 이유**: 젊은 감성과 실용성을 동시에 잡은 신예
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1483687670137522975" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1483687670137522975_0.jpg" target="_blank">스타일링 보기</a>
 
 #### 3️⃣ 인더스트 (INDUST)
 - **대표 상품**: <a href="https://www.musinsa.com/app/goods/6062933" target="_blank">아이템</a> (❤️ 102개)
 - **브랜드 특징**: 인더스트리얼 + 기능성 포커스
 - **추천 이유**: 워크웨어 트렌드에 완벽히 부합하는 신흥 강자
-- **대표 스냅**: <a href="https://www.musinsa.com/app/snap/view/1485060790898481471" target="_blank">무신사 스냅 보기</a>
+- **대표 스냅**: <a href="https://github.com/kyhong222/fashion-challenged/blob/main/data/snaps/2026-03-22/images/1485060790898481471_0.jpg" target="_blank">스타일링 보기</a>
 
 ### 🛒 쇼핑 순서 가이드
 
